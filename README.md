@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Hello%20World🎵%0AI'm%20Youngmin&fontSize=42&animation=twinkling)
+GitHub README에서 모든 내용을 가운데 정렬하려면 <div align="center"> 태그를 활용할 수 있습니다. 다음은 수정된 버전입니다:
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Hello%20World🎵%20I'm%20Youngmin&fontSize=42&animation=twinkling)
 
 ### 📚 Tech Stack 📚
 <p>
@@ -15,58 +19,27 @@
 ### 🛠 Tools 🛠
 <p>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 </p>
 <br/>
 
 ### 📝 My Record 📝
-<a href="https://www.instagram.com/0_min02" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>    
-    
 <a href="https://zeromin-code.tistory.com" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.instagram.com/0_min02" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>    
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=150&section=footer)
 
-
- 
-<!--
-**youngmin0322/youngmin0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-**Youngmin322/Youngmin322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
