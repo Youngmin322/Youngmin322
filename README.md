@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Answer&nbsp;Love&nbsp;Myself&nbsp;&fontSize=42&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Hello&nbsp;World🎵&nbsp;I'm&nbspYoungmin&nbsp;&fontSize=42&animation=twinkling)
 
 <div align="center">
 
