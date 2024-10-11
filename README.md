@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Hello&nbsp;World🎵&nbsp;I'm&nbsp;Youngmin&nbsp;&fontSize=42&animation=twinkling)
-
-<div align="center">
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Hello%20World🎵%0AI'm%20Youngmin&fontSize=42&animation=twinkling)
 
 ### 📚 Tech Stack 📚
 <p>
