@@ -1,5 +1,3 @@
-GitHub README에서 모든 내용을 가운데 정렬하려면 <div align="center"> 태그를 활용할 수 있습니다. 다음은 수정된 버전입니다:
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=160&section=header&text=Hello%20World🎵%20I'm%20Youngmin&fontSize=42&animation=twinkling)
