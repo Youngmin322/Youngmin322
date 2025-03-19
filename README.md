@@ -34,10 +34,7 @@
 <a href="https://zeromin-code.tistory.com" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/0_min02" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>    
+    
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=150&section=footer)
 
