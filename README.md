@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
 </p>
 <br/>
 
